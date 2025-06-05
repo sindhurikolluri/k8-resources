@@ -26,7 +26,7 @@ spec:
 ---
 #we can attach roles and role binding to a service account too 
 
-apiVersion: rbac.authorization.k8s.io/v1
+apiVersion: rbac.a uthorization.k8s.io/v1
 kind: Role
 metadata:
   namespace: expense
