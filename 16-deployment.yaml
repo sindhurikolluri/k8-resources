@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: learn25/deployment:2.0
+        image: joindevops/deployment:2.0
         ports:
         - containerPort: 80
 ---
